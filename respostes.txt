@@ -1,0 +1,1 @@
+3: cp ./Alumnos ./si.txt | cat si.txt | grep SI | wc -l
