@@ -4,3 +4,4 @@
 6: cat si.txt | awk'{print $1 , print $4 }'
 7: sort -u si.txt | ls -l | grep González 
 8: sed 's/Viecente/Pepe/g Alumnos.txt
+10: cat Alumnos.txt | sort -u | grep J 
