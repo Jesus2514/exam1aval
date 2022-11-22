@@ -1,3 +1,4 @@
 3: cp ./Alumnos ./si.txt | cat si.txt | grep SI | wc -l
 5: mv ./examen/si.txt ./si/
 4: mkdir si
+6: cat si.txt | awk'{print $1 , print $4 }'
