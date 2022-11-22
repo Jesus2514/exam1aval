@@ -3,3 +3,4 @@
 4: mkdir si
 6: cat si.txt | awk'{print $1 , print $4 }'
 7: sort -u si.txt | ls -l | grep González 
+8:
