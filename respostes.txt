@@ -1,1 +1,2 @@
 3: cp ./Alumnos ./si.txt | cat si.txt | grep SI | wc -l
+4: mv ./examen/si.txt ./si/
